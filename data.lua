@@ -1,0 +1,5 @@
+require("prototypes.extended.radar")
+require("prototypes.extended.accumulator")
+require("prototypes.extended.lamp")
+require("prototypes.extended.solarPanel")
+require("prototypes.extended.roboport")

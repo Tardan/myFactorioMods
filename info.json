@@ -1,0 +1,10 @@
+{
+  "name": "TechTier5Extension",
+  "version": "0.0.3",
+  "title": "Extended Buildings",
+  "author": "Tardan",
+  "contact": "tardan @ git",
+  "homepage": "https://github.com/Tardan",
+  "description": "Extended Buildings and Equipment",
+  "dependencies": ["base >= 0.11.1"]
+}

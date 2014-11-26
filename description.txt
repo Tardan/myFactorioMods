@@ -1,0 +1,9 @@
+Description
+
+new extended, researchable buildings:
+- brigther lamps
+- extended roboports - one with a larger construction area, the other with a larger logistic area
+- larger radar
+- new version for solar plant and accumulator
+
+Dependencies: nothing
